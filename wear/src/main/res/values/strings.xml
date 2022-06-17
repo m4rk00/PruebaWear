@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">PruebaWear</string>
+    <string name="app_name">pruebaWear</string>
     <!--
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">Hello Square World!</string>
+    <string name="action">Responder</string>
+    <string name="response">Lista de entradas</string>
+    <string name="llamar">Llamar</string>
+    <string name="llamada">Llamando a Amor</string>
+
 </resources>
